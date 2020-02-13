@@ -1,0 +1,5 @@
+version: "3"
+services:
+  nginx-renamed:
+    image: nginx:stable-alpine
+    
